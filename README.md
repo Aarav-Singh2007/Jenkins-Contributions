@@ -11,6 +11,7 @@ Total count till now:- 18
 |2| Add guide pages to developer docs sidebar navigation | [#9228](https://github.com/jenkins-infra/jenkins.io/pull/9228) | merged |
 |3| Add tested JDKs and platforms to LTS changelog entries | [#9238](https://github.com/jenkins-infra/jenkins.io/pull/9238) | merged |
 |4|Replace Blue Ocean with Pipeline Graph View in primary flow | [#9256](https://github.com/jenkins-infra/jenkins.io/pull/9256) | merged |
+|5|Fix agent JVM version guidance in upgrade docs | [#9260](https://github.com/jenkins-infra/jenkins.io/pull/9260) | Approved |
 
 ### In stats.jenkins.io
 
