@@ -26,6 +26,7 @@ Total count till now:- 19
 | --- | --- | --- | --- |
 |1| Update operating system end of life data | [#26991](https://github.com/jenkinsci/jenkins/pull/26991) | merged |
 |2| Move log.markAsComplete() into finally block in TaskThread.run() | [#26967](https://github.com/jenkinsci/jenkins/pull/26967) | merged |
+|3| Restrict ClientHttpRedirect to safe HTTP/HTTPS and relative URLs | [#27054](https://github.com/jenkinsci/jenkins/pull/27054) | requested review |
 
 ### In jenkinsci/pipeline-graphview-plugin
 
