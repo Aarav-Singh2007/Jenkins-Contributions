@@ -1,6 +1,6 @@
 # Jenkins-Contributions
 This repo is to track my jenkins contributions <br>
-Total count till now:- 21
+Total count till now:- 22
 
 
 ### In Jenkins.io
@@ -13,6 +13,7 @@ Total count till now:- 21
 |4|Replace Blue Ocean with Pipeline Graph View in primary flow | [#9256](https://github.com/jenkins-infra/jenkins.io/pull/9256) | merged |
 |5|Fix agent JVM version guidance in upgrade docs | [#9260](https://github.com/jenkins-infra/jenkins.io/pull/9260) | Merged |
 |6|Fixes Avatar alignment issue in team section | [#9295](https://github.com/jenkins-infra/jenkins.io/pull/9295) | Merged |
+|7|Page recognizing past officers and board members published | [#9299](https://github.com/jenkins-infra/jenkins.io/pull/9299) | Merged |
 
 ### In stats.jenkins.io
 
