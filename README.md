@@ -58,4 +58,4 @@ Total count till now:- 22
 |9| Add configure menue step 2| [#22](https://github.com/jenkinsci/auditflow-plugin/pull/22) | merged|
 
 
-
+![Repo Views](https://shieldcn.dev/views/repo/Aarav-Singh2007/Jenkins-Contributions.svg?variant=branded&label=Repository%20Views)
