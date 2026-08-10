@@ -1,6 +1,6 @@
 # Jenkins-Contributions
 This repo is to track my jenkins contributions <br>
-Total count till now:- 22
+Total count till now:- 24
 
 
 ### In Jenkins.io
@@ -56,6 +56,8 @@ Total count till now:- 22
 |7| Webhook Configure Menue Updated| [#19](https://github.com/jenkinsci/auditflow-plugin/pull/19) | merged|
 |8| Add configure menue| [#20](https://github.com/jenkinsci/auditflow-plugin/pull/20) | merged|
 |9| Add configure menue step 2| [#22](https://github.com/jenkinsci/auditflow-plugin/pull/22) | merged|
+|10|Introduce Auditlogs for CLI Plugin installation | [#37](https://github.com/jenkinsci/auditflow-plugin/pull/37) | merged|
+|11| Enhance the Auditlogs for CLI Plugin installation| [#38](https://github.com/jenkinsci/auditflow-plugin/pull/38) | merged|
 
 
 ![Repo Views](https://shieldcn.dev/views/repo/Aarav-Singh2007/Jenkins-Contributions.svg?variant=branded&label=Repository%20Views)
