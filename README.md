@@ -1,6 +1,6 @@
 # Jenkins-Contributions
 This repo is to track my jenkins contributions <br>
-Total count till now:- 24
+Total count till now:- 25
 
 
 ### In Jenkins.io
@@ -14,6 +14,7 @@ Total count till now:- 24
 |5|Fix agent JVM version guidance in upgrade docs | [#9260](https://github.com/jenkins-infra/jenkins.io/pull/9260) | Merged |
 |6|Fixes Avatar alignment issue in team section | [#9295](https://github.com/jenkins-infra/jenkins.io/pull/9295) | Merged |
 |7|Page recognizing past officers and board members published | [#9299](https://github.com/jenkins-infra/jenkins.io/pull/9299) | Merged |
+|8|Fix early board member history | [#9331](https://github.com/jenkins-infra/jenkins.io/pull/9331) | Approved |
 
 ### In stats.jenkins.io
 
